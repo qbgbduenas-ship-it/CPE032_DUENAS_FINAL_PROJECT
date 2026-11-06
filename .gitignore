@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.ivy2/
+checkpoints/
+.sparkStaging/
+.streamlit/secrets.toml
